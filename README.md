@@ -6,7 +6,7 @@ It is designed to work on a Raspberry Pi and requires Python 3.
 Just copy the Library (MCP4725_lib.py) in your Project Folder.<br>
 Requires "smbus". Normally preinstalled!
 
-##Supports the major MCP4725 features:
+## Supports the major MCP4725 features:
 - Fast write
 - Register write
 - EEPROM write
