@@ -1,5 +1,6 @@
 # MCP4725
-This Library is for the MCP4725 12-bit Digital-to-Analog Converter with EEPROM connected via I²C and its variants, and is tested on the MCP4151A0 and MCP4725A1.<br>
+This Library is for the MCP4725 12-bit Digital-to-Analog Converter with EEPROM connected via I²C and its variants, and is tested on the MCP4725A0 and MCP4725A1.<br>
+Also works with the Adafruit, Sparkfun an other Brand Breakout Boards.<br>
 It is designed to work on a Raspberry Pi and requires Python 3.
 
 ## Installation & Requirements
