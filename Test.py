@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-from MCP4725_lib import MCP4725_60
-DAC = MCP4725_60()
+from MCP4725_lib import MCP4725_60              #MCP4725_61, MCP4725_62, MCP4725_63, MCP4725_64, MCP4725_65, MCP4725_66, MCP4725_67
+DAC = MCP4725_60()                              #MCP4725_61, MCP4725_62, MCP4725_63, MCP4725_64, MCP4725_65, MCP4725_66, MCP4725_67
 
 while True:
     i = 0
