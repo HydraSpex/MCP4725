@@ -3,6 +3,8 @@
 from MCP4725_lib import MCP4725_60              #MCP4725_61, MCP4725_62, MCP4725_63, MCP4725_64, MCP4725_65, MCP4725_66, MCP4725_67
 DAC = MCP4725_60()                              #MCP4725_61, MCP4725_62, MCP4725_63, MCP4725_64, MCP4725_65, MCP4725_66, MCP4725_67
 
+DAC.set_voltage(2048, persist=True)             #Write to EEPROM
+
 while True:
     i = 0
     while i <= 4095:
