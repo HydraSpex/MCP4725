@@ -21,4 +21,4 @@ Use MCP4725_66 if the A3 Pin of the MCP4725A0 is connected to GND and the MCP472
 The values range from 0 to 4095 (12-Bit)
 
 ## Extra
-In the repo you will find the datasheet for the MCP4725 series.
+In the repo you will find the datasheet for the MCP4725 series and a Test-File.
